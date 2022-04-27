@@ -119,6 +119,11 @@ const Home = () => {
             </Row>
           </Col>
         </Row>
+        <div className="text-center py-4">
+          <p>
+            Developed by: <small>Mohammad Somon Sikder</small>
+          </p>
+        </div>
       </Container>
     </div>
   );
